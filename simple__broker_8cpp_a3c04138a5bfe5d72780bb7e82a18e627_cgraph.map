@@ -1,0 +1,10 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$simple__broker_8cpp.html#a64a252d20d43c09d3144b9b4713481e8" title="pong" alt="" coords="233,5,284,32"/>
+<area shape="rect" id="node3" href="$simple__broker_8cpp.html#a004fb635db33d280752e3ac41fad83ba" title="server" alt="" coords="104,157,163,184"/>
+<area shape="rect" id="node4" href="$simple__broker_8cpp.html#aece465c2b927744e1d38b7a42aaaaa14" title="broker_impl" alt="" coords="214,157,303,184"/>
+<area shape="rect" id="node8" href="$simple__broker_8cpp.html#a1d613e7d0e630b09e38349b345558eb8" title="print_on_exit" alt="" coords="211,208,307,235"/>
+<area shape="rect" id="node9" href="$simple__broker_8cpp.html#ab83d9674f70bb5515d49512ea47cab0e" title="ping" alt="" coords="110,56,157,83"/>
+<area shape="rect" id="node7" href="$namespacepatch.html#a54d2400c78aef13e3748a87cd7c86ede" title="patch::to_string" alt="" coords="355,107,467,133"/>
+<area shape="rect" id="node5" href="$simple__broker_8cpp.html#a186f08a0fe38dc99460dabc1b54c91ed" title="write_int" alt="" coords="375,157,446,184"/>
+<area shape="rect" id="node6" href="$simple__broker_8cpp.html#a514f74cb010471df7bbf1042949afd3f" title="read_int" alt="" coords="377,208,445,235"/>
+</map>

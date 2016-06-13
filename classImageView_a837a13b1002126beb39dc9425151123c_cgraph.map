@@ -1,0 +1,6 @@
+<map id="ImageView::ShowImage" name="ImageView::ShowImage">
+<area shape="rect" id="node2" href="$classImage.html#a7377f0e785df116fbdb53651006fcb67" title="Image::GetRGBImage" alt="" coords="219,56,371,83"/>
+<area shape="rect" id="node3" href="$classImage.html#adc25a467233718f37ae881cdebffa5c2" title="Image::GetImageWidth" alt="" coords="425,5,583,32"/>
+<area shape="rect" id="node4" href="$classImage.html#a141671a32d6e069211abd2211f0d8849" title="Image::GetImageHeight" alt="" coords="423,56,585,83"/>
+<area shape="rect" id="node5" href="$classImage.html#ad3f43e3ace90b4893eed677deb6a2631" title="Image::GetImagePayload" alt="" coords="419,107,589,133"/>
+</map>

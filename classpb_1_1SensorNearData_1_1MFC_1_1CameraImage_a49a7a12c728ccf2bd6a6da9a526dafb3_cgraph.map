@@ -1,0 +1,6 @@
+<map id="pb::SensorNearData::MFC::CameraImage::Clear" name="pb::SensorNearData::MFC::CameraImage::Clear">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a0d5dce7ebc7c3620d52b36c5cc20f0f7" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_header" alt="" coords="247,5,404,61"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a560c780e9167af2f055e5e46bb66ea83" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_image_payload" alt="" coords="247,85,404,141"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a9d590baab4806ea1ee3b3598c3f2d813" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_bmp_image" alt="" coords="247,165,404,221"/>
+<area shape="rect" id="node5" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#af96b3cfe11bf7100c887c641f494bc0b" title="pb::SensorNearData\l::MFC::CameraImage::\lmutable_unknown_fields" alt="" coords="243,245,408,301"/>
+</map>

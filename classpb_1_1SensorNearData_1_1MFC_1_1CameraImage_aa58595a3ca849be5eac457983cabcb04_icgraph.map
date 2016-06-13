@@ -1,0 +1,5 @@
+<map id="pb::SensorNearData::MFC::CameraImage::set_has_imager_size_v" name="pb::SensorNearData::MFC::CameraImage::set_has_imager_size_v">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ab5a9863ea1ea849627b3662d0b2d6c44" title="pb::SensorNearData\l::MFC::CameraImage::\lMergePartialFromCodedStream" alt="" coords="213,5,419,61"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a5b4c8b4c376e1c973e50c0a47fcd26d4" title="pb::SensorNearData\l::MFC::CameraImage::\lset_imager_size_v" alt="" coords="237,85,395,141"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ae45cc783bc05ce863660a29a98b65e6e" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="467,85,624,141"/>
+</map>

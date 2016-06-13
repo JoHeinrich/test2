@@ -1,0 +1,9 @@
+<map id="org::libcppa::StaticDescriptorInitializer_message_2eproto::StaticDescriptorInitializer_message_2eproto" name="org::libcppa::StaticDescriptorInitializer_message_2eproto::StaticDescriptorInitializer_message_2eproto">
+<area shape="rect" id="node2" href="$namespaceorg_1_1libcppa.html#a53893d1ff6bccd47afc19718d1797afb" title="org::libcppa::protobuf\l_AddDesc_message_2eproto" alt="" coords="246,103,439,145"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1warning.html#a4061e6d7f3ea6696fe4688cdfc182dac" title="org::libcppa::warning\l::InitAsDefaultInstance" alt="" coords="494,5,650,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1ack.html#ad41e1e019858ab758a04facdeb432c42" title="org::libcppa::ack::\lInitAsDefaultInstance" alt="" coords="498,70,646,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a4b758a7380351f6eb44e8e11d2e43306" title="org::libcppa::WarnOrAck\l::InitAsDefaultInstance" alt="" coords="489,135,655,177"/>
+<area shape="rect" id="node8" href="$namespaceorg_1_1libcppa.html#af62b7b514fe33a8872ebd0c8fb3c9546" title="org::libcppa::protobuf\l_ShutdownFile_message\l_2eproto" alt="" coords="488,200,656,256"/>
+<area shape="rect" id="node6" href="$classorg_1_1libcppa_1_1warning.html#a520ebddd2bddd7c612e65024f09aa947" title="org::libcppa::warning\l::default_instance" alt="" coords="705,103,847,145"/>
+<area shape="rect" id="node7" href="$classorg_1_1libcppa_1_1ack.html#a916412f45f069dc3462757e2d1b86e1c" title="org::libcppa::ack::\ldefault_instance" alt="" coords="713,169,839,210"/>
+</map>

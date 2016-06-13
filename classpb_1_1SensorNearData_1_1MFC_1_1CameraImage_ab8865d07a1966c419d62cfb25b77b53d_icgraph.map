@@ -1,0 +1,5 @@
+<map id="pb::SensorNearData::MFC::CameraImage::clear_has_image_payload" name="pb::SensorNearData::MFC::CameraImage::clear_has_image_payload">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a868ca3e27d3d78a75a411e8502c4d0c4" title="pb::SensorNearData\l::MFC::CameraImage::\lclear_image_payload" alt="" coords="245,5,403,61"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a15e70411f6d1f9ab7245971be109f9af" title="pb::SensorNearData\l::MFC::CameraImage::\lrelease_image_payload" alt="" coords="245,85,403,141"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a3ae8944b5899dfb20590675b5d142cae" title="pb::SensorNearData\l::MFC::CameraImage::\lset_allocated_image_payload" alt="" coords="227,165,421,221"/>
+</map>

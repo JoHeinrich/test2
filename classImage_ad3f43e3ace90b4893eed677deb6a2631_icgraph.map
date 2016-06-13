@@ -1,0 +1,6 @@
+<map id="Image::GetImagePayload" name="Image::GetImagePayload">
+<area shape="rect" id="node2" href="$classImage.html#a7377f0e785df116fbdb53651006fcb67" title="Image::GetRGBImage" alt="" coords="224,41,376,68"/>
+<area shape="rect" id="node3" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="425,5,599,46"/>
+<area shape="rect" id="node4" href="$classImageView.html#a837a13b1002126beb39dc9425151123c" title="ImageView::ShowImage" alt="" coords="430,71,594,97"/>
+<area shape="rect" id="node5" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="648,71,837,97"/>
+</map>

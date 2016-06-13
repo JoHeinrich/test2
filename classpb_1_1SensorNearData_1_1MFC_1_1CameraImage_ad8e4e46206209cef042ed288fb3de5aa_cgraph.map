@@ -1,0 +1,9 @@
+<map id="pb::SensorNearData::MFC::CameraImage::operator=" name="pb::SensorNearData::MFC::CameraImage::operator=">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#add0ff05587656030ad17fdff5027c5c9" title="pb::SensorNearData\l::MFC::CameraImage::\lCopyFrom" alt="" coords="211,161,368,217"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a49a7a12c728ccf2bd6a6da9a526dafb3" title="pb::SensorNearData\l::MFC::CameraImage::Clear" alt="" coords="417,133,605,174"/>
+<area shape="rect" id="node8" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#aae8b9de1aa65e56d68941a34fb73f202" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="432,197,589,253"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a0d5dce7ebc7c3620d52b36c5cc20f0f7" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_header" alt="" coords="657,5,815,61"/>
+<area shape="rect" id="node5" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a560c780e9167af2f055e5e46bb66ea83" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_image_payload" alt="" coords="657,85,815,141"/>
+<area shape="rect" id="node6" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a9d590baab4806ea1ee3b3598c3f2d813" title="pb::SensorNearData\l::MFC::CameraImage::\lhas_bmp_image" alt="" coords="657,165,815,221"/>
+<area shape="rect" id="node7" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#af96b3cfe11bf7100c887c641f494bc0b" title="pb::SensorNearData\l::MFC::CameraImage::\lmutable_unknown_fields" alt="" coords="653,245,819,301"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="pb::SensorNearData::MFC::CameraImage::set_has_image_payload" name="pb::SensorNearData::MFC::CameraImage::set_has_image_payload">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ac39279768a24e13ad694faa9e47df20c" title="pb::SensorNearData\l::MFC::CameraImage::\lset_image_payload" alt="" coords="235,4,392,60"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a4c138818ba73765358b515381ca4205e" title="pb::SensorNearData\l::MFC::CameraImage::\lmutable_image_payload" alt="" coords="232,84,395,140"/>
+<area shape="rect" id="node6" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a3ae8944b5899dfb20590675b5d142cae" title="pb::SensorNearData\l::MFC::CameraImage::\lset_allocated_image_payload" alt="" coords="217,164,410,220"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ae45cc783bc05ce863660a29a98b65e6e" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="483,4,640,60"/>
+<area shape="rect" id="node5" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ab5a9863ea1ea849627b3662d0b2d6c44" title="pb::SensorNearData\l::MFC::CameraImage::\lMergePartialFromCodedStream" alt="" coords="459,84,664,140"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/StreamDecoder/protofiles/CameraImage.pb.h" name="src/StreamDecoder/protofiles/CameraImage.pb.h">
+<area shape="rect" id="node2" href="$protobuf__image__wrapper_8h.html" title="src/StreamDecoder/protobuf\l_image_wrapper.h" alt="" coords="268,97,455,138"/>
+<area shape="rect" id="node9" href="$CameraImage_8pb_8cc.html" title="src/StreamDecoder/protofiles\l/CameraImage.pb.cc" alt="" coords="479,97,671,138"/>
+<area shape="rect" id="node3" href="$frame__selector_8h.html" title="src/StreamDecoder/frame\l_selector.h" alt="" coords="174,187,345,229"/>
+<area shape="rect" id="node8" href="$protobuf__image__wrapper_8cpp.html" title="src/StreamDecoder/protobuf\l_image_wrapper.cpp" alt="" coords="371,187,557,229"/>
+<area shape="rect" id="node4" href="$controller_8h.html" title="src/ProcessControl\l/controller.h" alt="" coords="87,278,221,319"/>
+<area shape="rect" id="node6" href="$StreamDecoder_2main_8cpp.html" title="src/StreamDecoder/main.cpp" alt="" coords="164,376,356,403"/>
+<area shape="rect" id="node7" href="$frame__selector_8cpp.html" title="src/StreamDecoder/frame\l_selector.cpp" alt="" coords="298,278,469,319"/>
+<area shape="rect" id="node5" href="$controller_8cpp.html" title="src/ProcessControl\l/controller.cpp" alt="" coords="5,369,139,410"/>
+</map>

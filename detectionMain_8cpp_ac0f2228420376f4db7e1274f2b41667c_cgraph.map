@@ -1,0 +1,5 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classDetection.html#a4dd834e8dd775f5bce56b071301ef9f4" title="Detection::ProcessFrame" alt="" coords="104,31,275,57"/>
+<area shape="rect" id="node3" href="$classPeopleDetector.html#a05fd62a7d7f388de37a4ce6eae6dbc8b" title="PeopleDetector::Detect" alt="" coords="325,5,483,32"/>
+<area shape="rect" id="node4" href="$classVehicleDetector.html#afedf9dcba45289285ef8f377b6439777" title="VehicleDetector::Detect" alt="" coords="323,56,485,83"/>
+</map>

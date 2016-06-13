@@ -1,0 +1,15 @@
+<map id="Controller::PlayHDFAsVideo" name="Controller::PlayHDFAsVideo">
+<area shape="rect" id="node2" href="$classFrameSelector.html#a24b62c5e5e66b40cfc72cda4c8409212" title="FrameSelector::GetImageCount" alt="" coords="243,17,450,44"/>
+<area shape="rect" id="node4" href="$classImageView.html#a837a13b1002126beb39dc9425151123c" title="ImageView::ShowImage" alt="" coords="265,72,429,99"/>
+<area shape="rect" id="node9" href="$classFrameSelector.html#a1065c609443efd72a3236cc98f168caa" title="FrameSelector::ReadImage" alt="" coords="255,248,438,275"/>
+<area shape="rect" id="node3" href="$classHDFReader.html#a679c61f47dbc9077c1628aae6688f40d" title="HDFReader::GetNumberOfProtobuf\lFiles" alt="" coords="499,6,730,47"/>
+<area shape="rect" id="node5" href="$classImage.html#a7377f0e785df116fbdb53651006fcb67" title="Image::GetRGBImage" alt="" coords="539,72,691,99"/>
+<area shape="rect" id="node6" href="$classImage.html#adc25a467233718f37ae881cdebffa5c2" title="Image::GetImageWidth" alt="" coords="785,156,943,183"/>
+<area shape="rect" id="node7" href="$classImage.html#a141671a32d6e069211abd2211f0d8849" title="Image::GetImageHeight" alt="" coords="783,97,945,124"/>
+<area shape="rect" id="node8" href="$classImage.html#ad3f43e3ace90b4893eed677deb6a2631" title="Image::GetImagePayload" alt="" coords="779,47,949,73"/>
+<area shape="rect" id="node10" href="$classHDFReader.html#a8be8f7b773c8547b5ace39960541fd33" title="HDFReader::ReadOneProtobufFile" alt="" coords="502,307,727,333"/>
+<area shape="rect" id="node11" href="$classProtobufImageWrapper.html#aba70c98783a278dd1b62771c244cf3f9" title="ProtobufImageWrapper\l::ParseFromArray" alt="" coords="537,358,693,399"/>
+<area shape="rect" id="node12" href="$classProtobufImageWrapper.html#a444790ea96785a92ab17a8be689f9872" title="ProtobufImageWrapper\l::GetImagePayload" alt="" coords="537,423,693,465"/>
+<area shape="rect" id="node13" href="$classProtobufImageWrapper.html#aabff426d3c841dad57cbd0f16f5382cd" title="ProtobufImageWrapper\l::GetImageWidth" alt="" coords="537,123,693,165"/>
+<area shape="rect" id="node14" href="$classProtobufImageWrapper.html#a7c01e9c1075bc30378996282e17d10a6" title="ProtobufImageWrapper\l::GetImageHeight" alt="" coords="537,241,693,282"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$protobuf__broker_8cpp.html#ab3afbb104c5cd2d77878dca0def53691" title="server" alt="" coords="167,253,225,280"/>
+<area shape="rect" id="node16" href="$classcsCommunication_1_1Warning.html#a4f42b64d025008a9f137037ce0bc5e2b" title="csCommunication::Warning\l::set_mess" alt="" coords="105,330,287,371"/>
+<area shape="rect" id="node18" href="$classcsCommunication_1_1Warning.html#a5ed92e6e526c5217ded8bd90eb3652ec" title="csCommunication::Warning\l::ByteSize" alt="" coords="105,427,287,469"/>
+<area shape="rect" id="node3" href="$protobuf__broker_8cpp.html#ae10b5d14d3ad78f811d25de1d8429746" title="protobuf_io" alt="" coords="385,228,471,255"/>
+<area shape="rect" id="node8" href="$namespacepatch.html#a54d2400c78aef13e3748a87cd7c86ede" title="patch::to_string" alt="" coords="609,5,721,32"/>
+<area shape="rect" id="node15" href="$protobuf__broker_8cpp.html#a1d613e7d0e630b09e38349b345558eb8" title="print_on_exit" alt="" coords="380,279,476,305"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab90e30d2891e4ce6a37c50b2c9e49d4b" title="org::libcppa::WarnOrAck\l::mutable_warn" alt="" coords="583,57,748,98"/>
+<area shape="rect" id="node6" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a6bb4f027211410b8dd68aad3407586fb" title="org::libcppa::WarnOrAck\l::mutable_ack" alt="" coords="583,122,748,163"/>
+<area shape="rect" id="node9" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ac607e8a3448c09e0d96c5930d75c2f73" title="org::libcppa::WarnOrAck\l::has_warn" alt="" coords="583,187,748,229"/>
+<area shape="rect" id="node10" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab669badf2c2a7b504ffde7d37c2b1a9f" title="org::libcppa::WarnOrAck\l::warn" alt="" coords="583,253,748,294"/>
+<area shape="rect" id="node11" href="$classorg_1_1libcppa_1_1warning.html#adf0bdf099abd08b438f55cbad69f9d2e" title="org::libcppa::warning::id" alt="" coords="585,319,745,345"/>
+<area shape="rect" id="node12" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a8eeec6df03e93704ac596a78d269eb3c" title="org::libcppa::WarnOrAck\l::has_ack" alt="" coords="583,370,748,411"/>
+<area shape="rect" id="node13" href="$classorg_1_1libcppa_1_1WarnOrAck.html#adb01773cc3a768704172a72677e4641b" title="org::libcppa::WarnOrAck::ack" alt="" coords="568,436,763,463"/>
+<area shape="rect" id="node14" href="$classorg_1_1libcppa_1_1ack.html#ae85c4ba475311e2a7a6bda892fa8fed4" title="org::libcppa::ack::id" alt="" coords="597,487,733,513"/>
+<area shape="rect" id="node5" href="$classorg_1_1libcppa_1_1WarnOrAck.html#aacbf55d28e497cd18168d32aba6b999c" title="org::libcppa::WarnOrAck\l::set_has_warn" alt="" coords="811,57,976,98"/>
+<area shape="rect" id="node7" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a04e2259945cc6e97b6a600827f064f41" title="org::libcppa::WarnOrAck\l::set_has_ack" alt="" coords="811,122,976,163"/>
+<area shape="rect" id="node17" href="$classcsCommunication_1_1Warning.html#a4173fe90c12b34ce5511fec55b400bb0" title="csCommunication::Warning\l::set_has_mess" alt="" coords="337,330,519,371"/>
+<area shape="rect" id="node19" href="$classcsCommunication_1_1Warning.html#a8f4e300281a8b6e710d0464a53611a9c" title="csCommunication::Warning\l::has_mess" alt="" coords="337,395,519,437"/>
+<area shape="rect" id="node20" href="$classcsCommunication_1_1Warning.html#ae89197b403010afcc5471ba841397296" title="csCommunication::Warning\l::mess" alt="" coords="337,461,519,502"/>
+<area shape="rect" id="node21" href="$classcsCommunication_1_1Warning.html#ae4c33f8577043bf5ca98e4c56186ecdc" title="csCommunication::Warning\l::unknown_fields" alt="" coords="337,526,519,567"/>
+</map>

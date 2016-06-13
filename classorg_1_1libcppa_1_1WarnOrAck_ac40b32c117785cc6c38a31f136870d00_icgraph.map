@@ -1,0 +1,5 @@
+<map id="org::libcppa::WarnOrAck::clear_has_ack" name="org::libcppa::WarnOrAck::clear_has_ack">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ad792eb7e820d332dcfb1539096476431" title="org::libcppa::WarnOrAck\l::clear_ack" alt="" coords="219,5,384,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#aa2bb21f8fc364f9349a011392d910a83" title="org::libcppa::WarnOrAck\l::release_ack" alt="" coords="219,70,384,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a70e921d08dc767609f5a99784b1e9c59" title="org::libcppa::WarnOrAck\l::set_allocated_ack" alt="" coords="219,135,384,177"/>
+</map>

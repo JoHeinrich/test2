@@ -1,0 +1,11 @@
+<map id="csCommunication::Warning::mess" name="csCommunication::Warning::mess">
+<area shape="rect" id="node2" href="$classcsCommunication_1_1Warning.html#a05d6bb7c7ff75f34d43e225dc02a9239" title="csCommunication::Warning\l::MergePartialFromCodedStream" alt="" coords="247,5,460,46"/>
+<area shape="rect" id="node3" href="$classcsCommunication_1_1Warning.html#a7216a898f594c8c5befd38d59e3ea8ab" title="csCommunication::Warning\l::SerializeWithCachedSizes" alt="" coords="261,70,446,111"/>
+<area shape="rect" id="node4" href="$classcsCommunication_1_1Warning.html#a4caa98438e16b840fe6bacc3d7430692" title="csCommunication::Warning\l::SerializeWithCachedSizesToArray" alt="" coords="238,135,469,177"/>
+<area shape="rect" id="node5" href="$classcsCommunication_1_1Warning.html#a5ed92e6e526c5217ded8bd90eb3652ec" title="csCommunication::Warning\l::ByteSize" alt="" coords="262,201,445,242"/>
+<area shape="rect" id="node7" href="$classcsCommunication_1_1Warning.html#af1c1761ea058cbf3898652f6c5741c36" title="csCommunication::Warning\l::MergeFrom" alt="" coords="262,266,445,307"/>
+<area shape="rect" id="node8" href="$classcsCommunication_1_1Warning.html#a19ee172b8a90a8aedb59c7334e431205" title="csCommunication::Warning\l::set_allocated_mess" alt="" coords="262,331,445,373"/>
+<area shape="rect" id="node9" href="$server_8cpp.html#a43270fa52273e259dc2fa500e5898b0b" title="task1" alt="" coords="326,397,381,424"/>
+<area shape="rect" id="node6" href="$client_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="517,208,568,235"/>
+<area shape="rect" id="node10" href="$server_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="517,397,568,424"/>
+</map>

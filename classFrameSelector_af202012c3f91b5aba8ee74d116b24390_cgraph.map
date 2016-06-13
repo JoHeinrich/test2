@@ -1,0 +1,6 @@
+<map id="FrameSelector::ReadAllImages" name="FrameSelector::ReadAllImages">
+<area shape="rect" id="node2" href="$classHDFReader.html#a5b9e493c8ec8cf001105dd262336e10b" title="HDFReader::ReadAllProtobuf\lFiles" alt="" coords="259,34,453,75"/>
+<area shape="rect" id="node5" href="$classProtobufImageWrapper.html#aba70c98783a278dd1b62771c244cf3f9" title="ProtobufImageWrapper\l::ParseFromArray" alt="" coords="278,99,434,141"/>
+<area shape="rect" id="node3" href="$classHDFReader.html#a679c61f47dbc9077c1628aae6688f40d" title="HDFReader::GetNumberOfProtobuf\lFiles" alt="" coords="502,5,733,46"/>
+<area shape="rect" id="node4" href="$classHDFReader.html#a8be8f7b773c8547b5ace39960541fd33" title="HDFReader::ReadOneProtobufFile" alt="" coords="505,71,730,97"/>
+</map>

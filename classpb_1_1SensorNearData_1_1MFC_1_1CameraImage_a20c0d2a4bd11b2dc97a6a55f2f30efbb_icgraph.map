@@ -1,0 +1,5 @@
+<map id="pb::SensorNearData::MFC::CameraImage::set_has_image_shift_u" name="pb::SensorNearData::MFC::CameraImage::set_has_image_shift_u">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ab5a9863ea1ea849627b3662d0b2d6c44" title="pb::SensorNearData\l::MFC::CameraImage::\lMergePartialFromCodedStream" alt="" coords="211,5,416,61"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a4f9b35171099e794452c44fcfcc85bfd" title="pb::SensorNearData\l::MFC::CameraImage::\lset_image_shift_u" alt="" coords="235,85,392,141"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ae45cc783bc05ce863660a29a98b65e6e" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="464,85,621,141"/>
+</map>

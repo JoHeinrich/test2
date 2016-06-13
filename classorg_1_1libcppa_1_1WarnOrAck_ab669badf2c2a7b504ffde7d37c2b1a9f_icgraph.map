@@ -1,0 +1,11 @@
+<map id="org::libcppa::WarnOrAck::warn" name="org::libcppa::WarnOrAck::warn">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a86189dec84eb3746f08520a85150a1e8" title="org::libcppa::WarnOrAck\l::SerializeWithCachedSizes" alt="" coords="242,5,427,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a3962cb0ae219a08acb9f28821b47a300" title="org::libcppa::WarnOrAck\l::SerializeWithCachedSizesToArray" alt="" coords="219,70,450,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#aeb55f2d7aef4fa3f8ba06b88d6ca17d2" title="org::libcppa::WarnOrAck\l::ByteSize" alt="" coords="252,135,417,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a12501cbd6672b9d2ebfc69b4b6b88f65" title="org::libcppa::WarnOrAck\l::MergeFrom" alt="" coords="252,201,417,242"/>
+<area shape="rect" id="node6" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a9c2a6a4a891b6a3ead4f7208e86c3d43" title="org::libcppa::WarnOrAck\l::IsInitialized" alt="" coords="252,266,417,307"/>
+<area shape="rect" id="node7" href="$classorg_1_1libcppa_1_1WarnOrAck.html#acbf07d46fd5453c4c55a74820b73dfd0" title="org::libcppa::WarnOrAck\l::set_allocated_warn" alt="" coords="252,331,417,373"/>
+<area shape="rect" id="node8" href="$protobuf__broker_8cpp.html#ae10b5d14d3ad78f811d25de1d8429746" title="protobuf_io" alt="" coords="291,397,378,424"/>
+<area shape="rect" id="node9" href="$protobuf__broker_8cpp.html#ab3afbb104c5cd2d77878dca0def53691" title="server" alt="" coords="499,372,557,399"/>
+<area shape="rect" id="node10" href="$protobuf__broker_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="605,397,656,424"/>
+</map>

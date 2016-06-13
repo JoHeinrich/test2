@@ -1,0 +1,11 @@
+<map id="pb::SensorNearData::MFC::CameraImage::image_height" name="pb::SensorNearData::MFC::CameraImage::image_height">
+<area shape="rect" id="node2" href="$classProtobufImageWrapper.html#a7c01e9c1075bc30378996282e17d10a6" title="ProtobufImageWrapper\l::GetImageHeight" alt="" coords="245,49,401,90"/>
+<area shape="rect" id="node7" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a68f2cde68b12b74681079603151d932a" title="pb::SensorNearData\l::MFC::CameraImage::\lSerializeWithCachedSizes" alt="" coords="234,113,411,169"/>
+<area shape="rect" id="node8" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a17e6ca2c29a49d34f990b3660db648b0" title="pb::SensorNearData\l::MFC::CameraImage::\lSerializeWithCachedSizesToArray" alt="" coords="211,193,434,249"/>
+<area shape="rect" id="node9" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a0e5f591b6faf941ca8056f413e4603f9" title="pb::SensorNearData\l::MFC::CameraImage::\lByteSize" alt="" coords="244,273,401,329"/>
+<area shape="rect" id="node10" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ae45cc783bc05ce863660a29a98b65e6e" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="244,353,401,409"/>
+<area shape="rect" id="node3" href="$classFrameSelector.html#a1065c609443efd72a3236cc98f168caa" title="FrameSelector::ReadImage" alt="" coords="483,56,666,83"/>
+<area shape="rect" id="node4" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="715,5,904,32"/>
+<area shape="rect" id="node5" href="$StreamDecoder_2main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="main" alt="" coords="952,31,1003,57"/>
+<area shape="rect" id="node6" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="722,107,897,149"/>
+</map>

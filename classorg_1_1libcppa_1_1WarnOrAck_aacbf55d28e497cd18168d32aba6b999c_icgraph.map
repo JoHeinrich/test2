@@ -1,0 +1,9 @@
+<map id="org::libcppa::WarnOrAck::set_has_warn" name="org::libcppa::WarnOrAck::set_has_warn">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab90e30d2891e4ce6a37c50b2c9e49d4b" title="org::libcppa::WarnOrAck\l::mutable_warn" alt="" coords="219,70,384,111"/>
+<area shape="rect" id="node8" href="$classorg_1_1libcppa_1_1WarnOrAck.html#acbf07d46fd5453c4c55a74820b73dfd0" title="org::libcppa::WarnOrAck\l::set_allocated_warn" alt="" coords="219,135,384,177"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a9af6e7c8e23b82e6428133f562766398" title="org::libcppa::WarnOrAck\l::MergePartialFromCodedStream" alt="" coords="432,5,645,46"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a12501cbd6672b9d2ebfc69b4b6b88f65" title="org::libcppa::WarnOrAck\l::MergeFrom" alt="" coords="456,70,621,111"/>
+<area shape="rect" id="node5" href="$protobuf__broker_8cpp.html#ae10b5d14d3ad78f811d25de1d8429746" title="protobuf_io" alt="" coords="495,136,582,163"/>
+<area shape="rect" id="node6" href="$protobuf__broker_8cpp.html#ab3afbb104c5cd2d77878dca0def53691" title="server" alt="" coords="693,111,752,137"/>
+<area shape="rect" id="node7" href="$protobuf__broker_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="800,136,851,163"/>
+</map>

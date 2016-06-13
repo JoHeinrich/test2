@@ -1,0 +1,5 @@
+<map id="org::libcppa::WarnOrAck::set_allocated_warn" name="org::libcppa::WarnOrAck::set_allocated_warn">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab669badf2c2a7b504ffde7d37c2b1a9f" title="org::libcppa::WarnOrAck\l::warn" alt="" coords="219,5,384,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#aacbf55d28e497cd18168d32aba6b999c" title="org::libcppa::WarnOrAck\l::set_has_warn" alt="" coords="219,70,384,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#adb47ed0b7427e788aad799760c0c0ec7" title="org::libcppa::WarnOrAck\l::clear_has_warn" alt="" coords="219,135,384,177"/>
+</map>

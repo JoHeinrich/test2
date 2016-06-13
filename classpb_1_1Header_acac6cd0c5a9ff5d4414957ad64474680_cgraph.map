@@ -1,0 +1,5 @@
+<map id="pb::Header::SerializeWithCachedSizes" name="pb::Header::SerializeWithCachedSizes">
+<area shape="rect" id="node2" href="$classpb_1_1Header.html#aea2e4fdd310328f847c4a85fb1ad720b" title="pb::Header::has_timestamp" alt="" coords="225,5,407,32"/>
+<area shape="rect" id="node3" href="$classpb_1_1Header.html#a18cfcab637f48026948d0687663feb0f" title="pb::Header::timestamp" alt="" coords="239,56,393,83"/>
+<area shape="rect" id="node4" href="$classpb_1_1Header.html#a1f5f46d1fe8eda6701a7426373d819aa" title="pb::Header::unknown\l_fields" alt="" coords="243,107,389,149"/>
+</map>

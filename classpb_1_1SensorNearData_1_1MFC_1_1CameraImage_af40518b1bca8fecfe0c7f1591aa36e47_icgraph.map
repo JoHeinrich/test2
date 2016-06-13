@@ -1,0 +1,5 @@
+<map id="pb::SensorNearData::MFC::CameraImage::set_has_image_compressed" name="pb::SensorNearData::MFC::CameraImage::set_has_image_compressed">
+<area shape="rect" id="node2" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ab5a9863ea1ea849627b3662d0b2d6c44" title="pb::SensorNearData\l::MFC::CameraImage::\lMergePartialFromCodedStream" alt="" coords="243,5,448,61"/>
+<area shape="rect" id="node3" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a9892d6843938061c0398cae013aaa643" title="pb::SensorNearData\l::MFC::CameraImage::\lset_image_compressed" alt="" coords="265,85,425,141"/>
+<area shape="rect" id="node4" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#ae45cc783bc05ce863660a29a98b65e6e" title="pb::SensorNearData\l::MFC::CameraImage::\lMergeFrom" alt="" coords="496,85,653,141"/>
+</map>

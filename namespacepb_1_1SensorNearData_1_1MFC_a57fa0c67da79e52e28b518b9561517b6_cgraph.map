@@ -1,0 +1,8 @@
+<map id="pb::SensorNearData::MFC::protobuf_AddDesc_CameraImage_2eproto" name="pb::SensorNearData::MFC::protobuf_AddDesc_CameraImage_2eproto">
+<area shape="rect" id="node2" href="$namespacepb.html#a398fcfaaf2f8651db5d294e2c0fd432c" title="pb::protobuf_AddDesc\l_header_2eproto" alt="" coords="253,66,405,107"/>
+<area shape="rect" id="node5" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a211a190e1a7e85d915eb1a261ff62c4c" title="pb::SensorNearData\l::MFC::CameraImage::\lInitAsDefaultInstance" alt="" coords="251,131,408,187"/>
+<area shape="rect" id="node7" href="$namespacepb_1_1SensorNearData_1_1MFC.html#a4fd2cb78da6027165b93a335b66972e0" title="pb::SensorNearData\l::MFC::protobuf_ShutdownFile\l_CameraImage_2eproto" alt="" coords="229,211,429,267"/>
+<area shape="rect" id="node3" href="$classpb_1_1Header.html#ac80bb9f4597d3e8a0135042092e20964" title="pb::Header::InitAsDefault\lInstance" alt="" coords="481,5,652,46"/>
+<area shape="rect" id="node4" href="$namespacepb.html#a58b7e9ff40ba872d44217907ef3dadc5" title="pb::protobuf_ShutdownFile\l_header_2eproto" alt="" coords="478,70,655,111"/>
+<area shape="rect" id="node6" href="$classpb_1_1Header.html#ab885144f6dc4e95e63f16d4eb2f07725" title="pb::Header::default\l_instance" alt="" coords="500,138,633,179"/>
+</map>

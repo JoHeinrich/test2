@@ -1,0 +1,6 @@
+<map id="org::libcppa::warning::default_instance" name="org::libcppa::warning::default_instance">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a4b758a7380351f6eb44e8e11d2e43306" title="org::libcppa::WarnOrAck\l::InitAsDefaultInstance" alt="" coords="197,45,363,86"/>
+<area shape="rect" id="node3" href="$namespaceorg_1_1libcppa.html#a53893d1ff6bccd47afc19718d1797afb" title="org::libcppa::protobuf\l_AddDesc_message_2eproto" alt="" coords="411,45,605,86"/>
+<area shape="rect" id="node4" href="$namespaceorg_1_1libcppa.html#ae01764e64ed49404f326136a720b1f3a" title="org::libcppa::protobuf\l_AssignDesc_message_2eproto" alt="" coords="653,5,864,46"/>
+<area shape="rect" id="node5" href="$structorg_1_1libcppa_1_1StaticDescriptorInitializer__message__2eproto.html#ac6023162292154effbea9c4a223f68cd" title="org::libcppa::StaticDescriptor\lInitializer_message_2eproto\l::StaticDescriptorInitializer\l_message_2eproto" alt="" coords="663,70,854,141"/>
+</map>

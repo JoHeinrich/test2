@@ -1,0 +1,12 @@
+<map id="org::libcppa::WarnOrAck::MergeFrom" name="org::libcppa::WarnOrAck::MergeFrom">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ac607e8a3448c09e0d96c5930d75c2f73" title="org::libcppa::WarnOrAck\l::has_warn" alt="" coords="233,5,399,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab90e30d2891e4ce6a37c50b2c9e49d4b" title="org::libcppa::WarnOrAck\l::mutable_warn" alt="" coords="233,70,399,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab669badf2c2a7b504ffde7d37c2b1a9f" title="org::libcppa::WarnOrAck\l::warn" alt="" coords="233,135,399,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a8eeec6df03e93704ac596a78d269eb3c" title="org::libcppa::WarnOrAck\l::has_ack" alt="" coords="233,201,399,242"/>
+<area shape="rect" id="node7" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a6bb4f027211410b8dd68aad3407586fb" title="org::libcppa::WarnOrAck\l::mutable_ack" alt="" coords="233,266,399,307"/>
+<area shape="rect" id="node9" href="$classorg_1_1libcppa_1_1WarnOrAck.html#adb01773cc3a768704172a72677e4641b" title="org::libcppa::WarnOrAck::ack" alt="" coords="219,332,413,359"/>
+<area shape="rect" id="node10" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a6dad49afab537e802bce04f339d61211" title="org::libcppa::WarnOrAck\l::mutable_unknown_fields" alt="" coords="229,383,403,425"/>
+<area shape="rect" id="node11" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a5ff85dc1f8ecb4c1de1ae3094ba96216" title="org::libcppa::WarnOrAck\l::unknown_fields" alt="" coords="233,449,399,490"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#aacbf55d28e497cd18168d32aba6b999c" title="org::libcppa::WarnOrAck\l::set_has_warn" alt="" coords="461,70,627,111"/>
+<area shape="rect" id="node8" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a04e2259945cc6e97b6a600827f064f41" title="org::libcppa::WarnOrAck\l::set_has_ack" alt="" coords="461,266,627,307"/>
+</map>

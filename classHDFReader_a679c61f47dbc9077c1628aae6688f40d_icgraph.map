@@ -1,0 +1,7 @@
+<map id="HDFReader::GetNumberOfProtobufFiles" name="HDFReader::GetNumberOfProtobufFiles">
+<area shape="rect" id="node2" href="$classFrameSelector.html#a24b62c5e5e66b40cfc72cda4c8409212" title="FrameSelector::GetImageCount" alt="" coords="286,64,493,91"/>
+<area shape="rect" id="node5" href="$classHDFReader.html#a5b9e493c8ec8cf001105dd262336e10b" title="HDFReader::ReadAllProtobuf\lFiles" alt="" coords="292,115,487,157"/>
+<area shape="rect" id="node3" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="549,5,739,32"/>
+<area shape="rect" id="node4" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="557,57,731,98"/>
+<area shape="rect" id="node6" href="$classFrameSelector.html#af202012c3f91b5aba8ee74d116b24390" title="FrameSelector::ReadAllImages" alt="" coords="542,123,746,149"/>
+</map>

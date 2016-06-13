@@ -1,0 +1,9 @@
+<map id="Image::GetImageWidth" name="Image::GetImageWidth">
+<area shape="rect" id="node2" href="$classFrameSelector.html#a1065c609443efd72a3236cc98f168caa" title="FrameSelector::ReadImage" alt="" coords="211,19,394,46"/>
+<area shape="rect" id="node5" href="$classImage.html#a5cd8edfc3b0fd518d7734ec8836b1896" title="Image::GetBGGRImage" alt="" coords="221,121,384,147"/>
+<area shape="rect" id="node6" href="$classImage.html#ab088a67c15296a3f45e72669d17eb606" title="Image::GetBGRImage" alt="" coords="455,150,607,177"/>
+<area shape="rect" id="node7" href="$classImage.html#a7377f0e785df116fbdb53651006fcb67" title="Image::GetRGBImage" alt="" coords="227,70,379,97"/>
+<area shape="rect" id="node3" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="667,30,856,57"/>
+<area shape="rect" id="node4" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="443,23,618,64"/>
+<area shape="rect" id="node8" href="$classImageView.html#a837a13b1002126beb39dc9425151123c" title="ImageView::ShowImage" alt="" coords="449,89,613,115"/>
+</map>

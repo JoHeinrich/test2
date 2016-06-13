@@ -1,0 +1,16 @@
+<map id="patch::to_string" name="patch::to_string">
+<area shape="rect" id="node2" href="$protobuf__broker_8cpp.html#ae10b5d14d3ad78f811d25de1d8429746" title="protobuf_io" alt="" coords="235,56,322,83"/>
+<area shape="rect" id="node3" href="$protobuf__broker_8cpp.html#ab3afbb104c5cd2d77878dca0def53691" title="server" alt="" coords="508,5,567,32"/>
+<area shape="rect" id="node5" href="$simple__broker_8cpp.html#ab83d9674f70bb5515d49512ea47cab0e" title="ping" alt="" coords="255,107,302,133"/>
+<area shape="rect" id="node7" href="$simple__broker_8cpp.html#aece465c2b927744e1d38b7a42aaaaa14" title="broker_impl" alt="" coords="234,157,323,184"/>
+<area shape="rect" id="node9" href="$classHDFReader.html#a8be8f7b773c8547b5ace39960541fd33" title="HDFReader::ReadOneProtobufFile" alt="" coords="166,259,391,285"/>
+<area shape="rect" id="node4" href="$protobuf__broker_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="760,31,811,57"/>
+<area shape="rect" id="node6" href="$simple__broker_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="760,157,811,184"/>
+<area shape="rect" id="node8" href="$simple__broker_8cpp.html#a004fb635db33d280752e3ac41fad83ba" title="server" alt="" coords="508,208,567,235"/>
+<area shape="rect" id="node10" href="$classFrameSelector.html#a1065c609443efd72a3236cc98f168caa" title="FrameSelector::ReadImage" alt="" coords="446,259,629,285"/>
+<area shape="rect" id="node14" href="$classHDFReader.html#a5b9e493c8ec8cf001105dd262336e10b" title="HDFReader::ReadAllProtobuf\lFiles" alt="" coords="440,339,635,381"/>
+<area shape="rect" id="node11" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="691,208,880,235"/>
+<area shape="rect" id="node12" href="$StreamDecoder_2main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="main" alt="" coords="936,233,987,260"/>
+<area shape="rect" id="node13" href="$classController.html#afd6375744f4f31dd254d1e5f1316ff4b" title="Controller::SaveAllImages\lAsJPEG" alt="" coords="698,310,873,351"/>
+<area shape="rect" id="node15" href="$classFrameSelector.html#af202012c3f91b5aba8ee74d116b24390" title="FrameSelector::ReadAllImages" alt="" coords="683,376,887,403"/>
+</map>

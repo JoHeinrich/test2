@@ -1,0 +1,21 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$classController.html#aee012beb2309ae88b7278fa3dad06d80" title="Controller::PlayHDFAsVideo" alt="" coords="104,136,293,163"/>
+<area shape="rect" id="node5" href="$classImageView.html#a837a13b1002126beb39dc9425151123c" title="ImageView::ShowImage" alt="" coords="363,85,527,112"/>
+<area shape="rect" id="node10" href="$classFrameSelector.html#a1065c609443efd72a3236cc98f168caa" title="FrameSelector::ReadImage" alt="" coords="354,285,537,312"/>
+<area shape="rect" id="node3" href="$classFrameSelector.html#a24b62c5e5e66b40cfc72cda4c8409212" title="FrameSelector::GetImageCount" alt="" coords="342,136,549,163"/>
+<area shape="rect" id="node4" href="$classHDFReader.html#a679c61f47dbc9077c1628aae6688f40d" title="HDFReader::GetNumberOfProtobuf\lFiles" alt="" coords="598,95,829,137"/>
+<area shape="rect" id="node6" href="$classImage.html#a7377f0e785df116fbdb53651006fcb67" title="Image::GetRGBImage" alt="" coords="637,44,789,71"/>
+<area shape="rect" id="node7" href="$classImage.html#adc25a467233718f37ae881cdebffa5c2" title="Image::GetImageWidth" alt="" coords="884,117,1041,144"/>
+<area shape="rect" id="node8" href="$classImage.html#a141671a32d6e069211abd2211f0d8849" title="Image::GetImageHeight" alt="" coords="882,56,1043,83"/>
+<area shape="rect" id="node9" href="$classImage.html#ad3f43e3ace90b4893eed677deb6a2631" title="Image::GetImagePayload" alt="" coords="877,5,1048,32"/>
+<area shape="rect" id="node11" href="$classHDFReader.html#a8be8f7b773c8547b5ace39960541fd33" title="HDFReader::ReadOneProtobufFile" alt="" coords="601,344,826,371"/>
+<area shape="rect" id="node13" href="$classFrameSelector.html#ae72491ab70eb61111b1cebfb637a53a2" title="FrameSelector::ConvertProtobuf\lFileToArray" alt="" coords="608,395,819,437"/>
+<area shape="rect" id="node14" href="$classProtobufImageWrapper.html#aba70c98783a278dd1b62771c244cf3f9" title="ProtobufImageWrapper\l::ParseFromArray" alt="" coords="635,461,791,502"/>
+<area shape="rect" id="node15" href="$classProtobufImageWrapper.html#a444790ea96785a92ab17a8be689f9872" title="ProtobufImageWrapper\l::GetImagePayload" alt="" coords="635,526,791,567"/>
+<area shape="rect" id="node17" href="$classProtobufImageWrapper.html#aabff426d3c841dad57cbd0f16f5382cd" title="ProtobufImageWrapper\l::GetImageWidth" alt="" coords="635,213,791,254"/>
+<area shape="rect" id="node19" href="$classProtobufImageWrapper.html#a7c01e9c1075bc30378996282e17d10a6" title="ProtobufImageWrapper\l::GetImageHeight" alt="" coords="635,278,791,319"/>
+<area shape="rect" id="node12" href="$namespacepatch.html#a54d2400c78aef13e3748a87cd7c86ede" title="patch::to_string" alt="" coords="907,351,1019,377"/>
+<area shape="rect" id="node16" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a5a0eb509d1d0626ebcd7af2605cf9593" title="pb::SensorNearData\l::MFC::CameraImage::\limage_payload" alt="" coords="884,519,1041,575"/>
+<area shape="rect" id="node18" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#a094b9c34c186698c13638d66d376e75c" title="pb::SensorNearData\l::MFC::CameraImage::\limage_width" alt="" coords="884,191,1041,247"/>
+<area shape="rect" id="node20" href="$classpb_1_1SensorNearData_1_1MFC_1_1CameraImage.html#aa103619cccc6310931c87d03fcefbed6" title="pb::SensorNearData\l::MFC::CameraImage::\limage_height" alt="" coords="884,271,1041,327"/>
+</map>

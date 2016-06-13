@@ -1,0 +1,7 @@
+<map id="org::libcppa::WarnOrAck::SerializeWithCachedSizesToArray" name="org::libcppa::WarnOrAck::SerializeWithCachedSizesToArray">
+<area shape="rect" id="node2" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ac607e8a3448c09e0d96c5930d75c2f73" title="org::libcppa::WarnOrAck\l::has_warn" alt="" coords="300,5,465,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1libcppa_1_1WarnOrAck.html#ab669badf2c2a7b504ffde7d37c2b1a9f" title="org::libcppa::WarnOrAck\l::warn" alt="" coords="300,70,465,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a8eeec6df03e93704ac596a78d269eb3c" title="org::libcppa::WarnOrAck\l::has_ack" alt="" coords="300,135,465,177"/>
+<area shape="rect" id="node5" href="$classorg_1_1libcppa_1_1WarnOrAck.html#adb01773cc3a768704172a72677e4641b" title="org::libcppa::WarnOrAck::ack" alt="" coords="285,201,480,228"/>
+<area shape="rect" id="node6" href="$classorg_1_1libcppa_1_1WarnOrAck.html#a5ff85dc1f8ecb4c1de1ae3094ba96216" title="org::libcppa::WarnOrAck\l::unknown_fields" alt="" coords="300,253,465,294"/>
+</map>

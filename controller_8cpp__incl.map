@@ -1,0 +1,10 @@
+<map id="src/ProcessControl/controller.cpp" name="src/ProcessControl/controller.cpp">
+<area shape="rect" id="node2" href="$controller_8h.html" title="controller.h" alt="" coords="311,96,397,123"/>
+<area shape="rect" id="node20" href="$image__view_8h.html" title="../StreamDecoder/image\l_view.h" alt="" coords="478,171,641,213"/>
+<area shape="rect" id="node4" href="$frame__selector_8h.html" title="../StreamDecoder/frame\l_selector.h" alt="" coords="273,171,436,213"/>
+<area shape="rect" id="node5" href="$hdf__reader_8h.html" title="hdf_reader.h" alt="" coords="201,261,295,288"/>
+<area shape="rect" id="node9" href="$protobuf__image__wrapper_8h.html" title="protobuf_image_wrapper.h" alt="" coords="375,261,549,288"/>
+<area shape="rect" id="node18" href="$image_8h.html" title="image.h" alt="" coords="574,261,641,288"/>
+<area shape="rect" id="node10" href="$CameraImage_8pb_8h.html" title="protofiles/CameraImage.pb.h" alt="" coords="393,336,583,363"/>
+<area shape="rect" id="node17" href="$header_8pb_8h.html" title="header.pb.h" alt="" coords="436,411,527,437"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="FrameSelector::ReadImage" name="FrameSelector::ReadImage">
+<area shape="rect" id="node2" href="$classHDFReader.html#a8be8f7b773c8547b5ace39960541fd33" title="HDFReader::ReadOneProtobufFile" alt="" coords="238,5,463,32"/>
+<area shape="rect" id="node3" href="$classProtobufImageWrapper.html#aba70c98783a278dd1b62771c244cf3f9" title="ProtobufImageWrapper\l::ParseFromArray" alt="" coords="273,57,429,98"/>
+<area shape="rect" id="node4" href="$classProtobufImageWrapper.html#a444790ea96785a92ab17a8be689f9872" title="ProtobufImageWrapper\l::GetImagePayload" alt="" coords="273,122,429,163"/>
+<area shape="rect" id="node5" href="$classProtobufImageWrapper.html#aabff426d3c841dad57cbd0f16f5382cd" title="ProtobufImageWrapper\l::GetImageWidth" alt="" coords="273,187,429,229"/>
+<area shape="rect" id="node6" href="$classProtobufImageWrapper.html#a7c01e9c1075bc30378996282e17d10a6" title="ProtobufImageWrapper\l::GetImageHeight" alt="" coords="273,253,429,294"/>
+<area shape="rect" id="node7" href="$classImage.html#adc25a467233718f37ae881cdebffa5c2" title="Image::GetImageWidth" alt="" coords="272,319,429,345"/>
+</map>
